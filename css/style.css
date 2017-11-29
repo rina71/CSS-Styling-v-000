@@ -13,3 +13,8 @@ p{font-size: 16px;
     color: #777;
     text-align:left;
   }
+.milk-text{
+  font: bold 2.6em 'Spectral SC', serif;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
