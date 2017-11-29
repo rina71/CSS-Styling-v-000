@@ -21,3 +21,9 @@ p{font-size: 16px;
 #logo{
   background: aqua;
 }
+#logo h1 {
+  font-family: 'clicker script',cursive;
+}
+#logo h2 {
+  font-family: 'Spectral SC', serif;
+}
