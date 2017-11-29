@@ -6,5 +6,7 @@ p{font-size: 16px;
     font-weight: normal;
     font-size: 0.75em;
     line-height: 1.5em;
-    font-family: Georgia, "New Times Roman", serof;
+    font-family: Georgia, "New Times Roman", serif;
+    font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
+    color: #000010;
   }
